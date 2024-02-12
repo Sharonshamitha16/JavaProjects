@@ -12,5 +12,5 @@ public class Palindrome {
 // you can travel by using control and hover. control+hover
 // It suggest for betterment of code. So learn by hover.
 // anything you need to create Use this folder only.
-
+// do once again push and show commit
 /* ok va huh but y there it didn't show anything like this play button this is maven file structure and architecture so it do own duw to dependencies. */
