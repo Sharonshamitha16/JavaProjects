@@ -1,36 +1,38 @@
 package org.codewithsharon.Methods;
-public class method_demo_object {
-    class Box{
+
+    class Box{ // class
+        // class parameters
         int height;
-        int breath;
+        int breadth;
         int length;
 
-        static int volume(){
-            int volume = length * height * breath;
-            return volume();
+         int volume(){ // non void non parameterized
+
+            return length * height * breadth;
         }
 
-        static String printline(){
+         void printline(){ //void non parameterized
             System.out.println("---------------------------");
-            return printline();
+
         }
     }
-    public void main(String[] args) {
-        Box BlackBox = new Box();
-        int height = 10;
-        int breadth = 5;
-        int length  = 20;
-        BlackBox.volume();
+public class method_demo_object {
+    public  static void main(String[] args) { // main method
+        Box BlackBox = new Box();// classname objectname = new (memory allocation) classname();-->  function /method
+        BlackBox.height = 10; // objectname.cls_defined_parameters=value;
+        BlackBox.breadth = 5;
+        BlackBox.length  = 20;
+        BlackBox.volume();// method calling
         BlackBox.printline();
         System.out.println("volume of the BlackBox:  "+ BlackBox.volume());
-
+        BlackBox.printline();
         Box WoodBox = new Box();
-        int height = 20;
-        int breadth = 15;
-        int length  = 10;
+        WoodBox.height = 20;
+        WoodBox.breadth = 15;
+        WoodBox.length  = 10;
         WoodBox.volume();
         WoodBox.printline();
         System.out.println("volume of the woodBox:  "+ WoodBox.volume());
-
+        WoodBox.printline();
     }
 }
