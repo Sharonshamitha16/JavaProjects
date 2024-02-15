@@ -8,7 +8,7 @@ class Box1 { //(SA)=2lw+2lh+2hw
         int i = 2 * (length * width + length * height + height * width);
         return i;
     }
-    public void Surfacearea( int height,int width,int length){
+    public void Surfacearea ( int height,int width,int length){
         int i = 2 * (length * width + length * height + height * width);
     }
 }

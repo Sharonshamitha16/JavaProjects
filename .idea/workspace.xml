@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeb068ae-a530-486a-8071-2e1a22474148" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Base_Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Library_Management_Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/method_demo_object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/AppForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Digits_of_sum_inbulitIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Sumofdigits_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/dummycls.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/DummyFolder/SecondFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/DummyFolder/SecondFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/SurfaceArea_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/SurfaceArea_Method.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,23 +40,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AppForm.executor": "Run",
     "Application.Base_Recursive.executor": "Run",
+    "Application.Digits_of_sum_inbulitIP.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.SecondFile$Palindrome.executor": "Run",
+    "Application.SecondFile.executor": "Run",
+    "Application.Student_method.executor": "Run",
+    "Application.Sumofdigits_Method.executor": "Run",
+    "Application.SurfaceArea_Method.executor": "Run",
+    "Application.dummycls.executor": "Run",
     "Application.method.executor": "Run",
     "Application.method_demo_object.executor": "Run",
+    "Application.palindrome.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Sharon Shamitha/Documents/JavaProjects"
+    "last_opened_file_path": "C:/Users/Sharon Shamitha/Documents/Java Programs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.method_demo_object">
-    <configuration name="Base_Recursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.Base_Recursive" />
+  <component name="RunManager" selected="Application.AppForm">
+    <configuration name="AppForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.AppForm" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -69,34 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Palindrome" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.codewithsharon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondFile$Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.DummyFolder.SecondFile$Palindrome" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.codewithsharon.DummyFolder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.method" />
+    <configuration name="Digits_of_sum_inbulitIP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.Digits_of_sum_inbulitIP" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +89,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="method_demo_object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.method_demo_object" />
+    <configuration name="Student_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.Student_method" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codewithsharon.Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sumofdigits_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.Sumofdigits_Method" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codewithsharon.Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dummycls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.dummycls" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -123,13 +130,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.method_demo_object" />
-        <item itemvalue="Application.SecondFile$Palindrome" />
-        <item itemvalue="Application.Base_Recursive" />
-        <item itemvalue="Application.method" />
-        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.AppForm" />
+        <item itemvalue="Application.dummycls" />
+        <item itemvalue="Application.Digits_of_sum_inbulitIP" />
+        <item itemvalue="Application.Sumofdigits_Method" />
+        <item itemvalue="Application.Student_method" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -164,7 +178,31 @@
       <option name="project" value="LOCAL" />
       <updated>1707757972454</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1707846763532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707846763532</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1707893325423</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707893325423</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1707903852663</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707903852663</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,14 +212,15 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/method_demo_object.java</url>
-          <line>17</line>
-          <properties class="org.codewithsharon.Methods.method_demo_object" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/SurfaceArea_Method.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/dummycls.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
