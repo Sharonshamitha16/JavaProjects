@@ -1,5 +1,6 @@
 package org.codewithsharon.DummyFolder;
 
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class SecondFile {
@@ -27,3 +28,7 @@ public class SecondFile {
         }
     }
 }
+=======
+public class SecondFile {
+}
+>>>>>>> origin/master
