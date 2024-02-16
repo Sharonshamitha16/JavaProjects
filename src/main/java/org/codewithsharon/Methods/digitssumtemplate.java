@@ -2,7 +2,7 @@ package org.codewithsharon.Methods;
 
 class digitssumtemplate { //class template of object
     int num;
-    public int calculate_digitsofsum(int num) { //non void paramterized  method
+    public int calculate_digitsofsum(int num) { //non void paramterized  methods
         int sum = 0;
         while (num != 0) {
             sum += num % 10;

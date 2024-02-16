@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeb068ae-a530-486a-8071-2e1a22474148" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/AppForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Digits_of_sum_inbulitIP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Sumofdigits_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/dummycls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Foreachloop_missingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/LibraryManagementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Studentinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/stack_implement_int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/stack_int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/studentmarksinfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/SurfaceArea_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/SurfaceArea_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/DummyFolder/SecondFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/DummyFolder/SecondFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/AppForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/AppForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Base_Recursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Base_Recursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Digits_of_sum_inbulitIP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Digits_of_sum_inbulitIP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/applicationform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/applicationform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/digitssumtemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/digitssumtemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/method_demo_object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/method_demo_object.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,28 +52,32 @@
     "Application.AppForm.executor": "Run",
     "Application.Base_Recursive.executor": "Run",
     "Application.Digits_of_sum_inbulitIP.executor": "Run",
+    "Application.Foreachloop_missingArray.executor": "Run",
+    "Application.LibraryManagementApplication.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.SecondFile$Palindrome.executor": "Run",
     "Application.SecondFile.executor": "Run",
     "Application.Student_method.executor": "Run",
+    "Application.Studentinfo.executor": "Run",
     "Application.Sumofdigits_Method.executor": "Run",
     "Application.SurfaceArea_Method.executor": "Run",
     "Application.dummycls.executor": "Run",
     "Application.method.executor": "Run",
     "Application.method_demo_object.executor": "Run",
     "Application.palindrome.executor": "Run",
+    "Application.stack_implement_int.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Sharon Shamitha/Documents/Java Programs"
+    "last_opened_file_path": "C:/Users/Sharon Shamitha/Documents/JavaProjects"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AppForm">
-    <configuration name="AppForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.AppForm" />
+  <component name="RunManager" selected="Application.stack_implement_int">
+    <configuration name="Foreachloop_missingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.Foreachloop_missingArray" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Digits_of_sum_inbulitIP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.Digits_of_sum_inbulitIP" />
+    <configuration name="LibraryManagementApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.LibraryManagementApplication" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +102,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student_method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.Student_method" />
+    <configuration name="SecondFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.DummyFolder.SecondFile" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codewithsharon.DummyFolder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Studentinfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.Studentinfo" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -102,21 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sumofdigits_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.Sumofdigits_Method" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.codewithsharon.Methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dummycls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.dummycls" />
+    <configuration name="stack_implement_int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.stack_implement_int" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppForm" />
-        <item itemvalue="Application.dummycls" />
-        <item itemvalue="Application.Digits_of_sum_inbulitIP" />
-        <item itemvalue="Application.Sumofdigits_Method" />
-        <item itemvalue="Application.Student_method" />
+        <item itemvalue="Application.stack_implement_int" />
+        <item itemvalue="Application.Studentinfo" />
+        <item itemvalue="Application.LibraryManagementApplication" />
+        <item itemvalue="Application.Foreachloop_missingArray" />
+        <item itemvalue="Application.SecondFile" />
       </list>
     </recent_temporary>
   </component>
@@ -202,8 +215,27 @@
       <option name="project" value="LOCAL" />
       <updated>1707903852663</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1707991436567</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707991436567</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
@@ -218,7 +250,7 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/dummycls.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/printmsgbox.java</url>
           <line>2</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>

@@ -1,6 +1,6 @@
 package org.codewithsharon.Methods;
 
-    class Box{ // class
+    class  Box{ // class
         // class parameters
         int height;
         int breadth;

@@ -1,7 +1,7 @@
 package org.codewithsharon.Methods;
 
 // to print the natural numbers in reverse using recursion
-public class Base_Recursive {
+public class  Base_Recursive {
     public static void main(String[] args) {
         //int n = 1;
         //int sum = 0;

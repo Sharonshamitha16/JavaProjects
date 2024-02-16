@@ -1,6 +1,6 @@
 package org.codewithsharon.Methods;
 
-public class method {
+public class  method {
 
 
     public static void main(String[] args) {
