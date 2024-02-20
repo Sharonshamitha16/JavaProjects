@@ -17,5 +17,8 @@ public class Studentinfo {
         studentmarksinfo student4 =new studentmarksinfo(90,88,92,81,87);
         student1.printvalues("saki", 4010);
         System.out.println("The totalmarks of the student4:"+student4.totalmarks());
+        new studentmarksinfo(00);
+
+        System.out.println("the totalmarks of the student0 as student absent the marks were:"+ new studentmarksinfo(00));
     }
 }

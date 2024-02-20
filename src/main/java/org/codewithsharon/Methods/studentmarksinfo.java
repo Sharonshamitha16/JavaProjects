@@ -18,6 +18,9 @@ public class studentmarksinfo {
       english_mark=eng;
       tamil_mark=tam;
   }
+  studentmarksinfo(int abssubjects){
+        science_mark=maths_mark=social_mark=english_mark=tamil_mark;
+  }
    void setvalues(int sci, int math, int soc, int eng, int tam){
        science_mark =sci;
        maths_mark=math;
