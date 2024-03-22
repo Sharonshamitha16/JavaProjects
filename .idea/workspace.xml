@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeb068ae-a530-486a-8071-2e1a22474148" name="Changes" comment="01-03-2024">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/AWTDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/MultiThreading_synchronized_interfaceRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Subarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/TableSynchronized.java" afterDir="false" />
+    <list default="true" id="eeb068ae-a530-486a-8071-2e1a22474148" name="Changes" comment="04-03-2024">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/reversestring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/arraylistdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/linearsearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/AWTDEMO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/queue_implement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/queue_implement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/queue_int.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/queue_int.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/stack_int.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/stack_int.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,20 +76,25 @@
     "Application.Sumofdigits_Method.executor": "Run",
     "Application.SurfaceArea_Method.executor": "Run",
     "Application.TableSynchronized.executor": "Run",
+    "Application.Tally_counter.executor": "Run",
     "Application.Threadbaking.executor": "Run",
     "Application.UserdefinedExpection.executor": "Run",
     "Application.VarargsDemo.executor": "Run",
     "Application.abstractdemo.executor": "Run",
+    "Application.arraylistdemo.executor": "Run",
     "Application.dummycls.executor": "Run",
     "Application.fact_recursion.executor": "Run",
     "Application.fibannoci_recursion.executor": "Run",
     "Application.interface_multiple_inheritance.executor": "Run",
+    "Application.linearsearch.executor": "Run",
     "Application.method.executor": "Run",
     "Application.method_demo_object.executor": "Run",
     "Application.methodoverloading.executor": "Run",
     "Application.palindrome.executor": "Run",
     "Application.passreference.executor": "Run",
     "Application.predefined_cls_methods.executor": "Run",
+    "Application.queue_implement.executor": "Run",
+    "Application.reversestring.executor": "Run",
     "Application.stack_implement_int.executor": "Run",
     "Application.synchronizeddemo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -96,8 +102,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Sharon Shamitha/Documents/JavaProjects",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "C:/Users/Sharon Shamitha/Downloads/mysql-connector-j-8.3.0 (1).zip",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
@@ -116,9 +122,35 @@
       <recent name="org.codewithsharon.telegrambot" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MultiThreading_synchronized_interfaceRunnable">
-    <configuration name="AWTDem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.AWTDem" />
+  <component name="RunManager" selected="Application.arraylistdemo">
+    <configuration name="arraylistdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.ds.arraylistdemo" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codewithsharon.ds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linearsearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.ds.linearsearch" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codewithsharon.ds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="queue_implement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.queue_implement" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AWTDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.AWTDemo" />
+    <configuration name="reversestring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.reversestring" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -143,34 +175,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiThreading_synchronized_interfaceRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.MultiThreading_synchronized_interfaceRunnable" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.codewithsharon.Methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.Subarray" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.codewithsharon.Methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TableSynchronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.TableSynchronized" />
+    <configuration name="stack_implement_int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.stack_implement_int" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -184,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MultiThreading_synchronized_interfaceRunnable" />
-        <item itemvalue="Application.TableSynchronized" />
-        <item itemvalue="Application.AWTDem" />
-        <item itemvalue="Application.Subarray" />
-        <item itemvalue="Application.AWTDemo" />
+        <item itemvalue="Application.arraylistdemo" />
+        <item itemvalue="Application.linearsearch" />
+        <item itemvalue="Application.queue_implement" />
+        <item itemvalue="Application.stack_implement_int" />
+        <item itemvalue="Application.reversestring" />
       </list>
     </recent_temporary>
   </component>
@@ -345,7 +351,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709232659527</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="02-03-2024">
+      <option name="closed" value="true" />
+      <created>1709320562530</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1709320562530</updated>
+    </task>
+    <task id="LOCAL-00019" summary="04-03-2024">
+      <option name="closed" value="true" />
+      <created>1709572993582</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1709572993582</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -369,7 +391,9 @@
     <MESSAGE value="24-02-2024" />
     <MESSAGE value="27-02-2024" />
     <MESSAGE value="01-03-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="01-03-2024" />
+    <MESSAGE value="02-03-2024" />
+    <MESSAGE value="04-03-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="04-03-2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -398,6 +422,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/abstractdemo.java</url>
           <line>27</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/stack_implement_int.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/EmployeeInheritance.java</url>

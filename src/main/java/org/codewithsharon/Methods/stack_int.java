@@ -9,7 +9,6 @@ public class stack_int {
     }
 
     void push(int item) {
-
         if (topofstack == 9)
         {
             //s[topofstack] = s[topsofstack+1];
