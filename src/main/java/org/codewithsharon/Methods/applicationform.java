@@ -3,8 +3,8 @@ package org.codewithsharon.Methods;
 class applicationform{
     String name;
     int rollno;
-    int age;
-    String dept;
+    private int age;
+   private String dept;
     public void display()
     {
         System.out.println("name is :"+name);
