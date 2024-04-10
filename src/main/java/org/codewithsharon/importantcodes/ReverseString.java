@@ -23,12 +23,12 @@ public class ReverseString{
         Scanner sc= new Scanner(System.in);
 
         String name = sc.nextLine();
-        String [] words = name.split("\\s+");
+      //  String [] words = name.split("\\s+");
 
-        StringBuilder firstrev =new StringBuilder(words[0]).reverse();
-        StringBuilder secrev =new StringBuilder(words[1]).reverse();
+        StringBuilder firstrev =new StringBuilder(name).reverse();
+//        StringBuilder secrev =new StringBuilder(words[1]).reverse();
 
-        System.out.println( "reversed string is :"+firstrev +" " +secrev);
+        System.out.println( "reversed string is :"+firstrev +" "); //+secrev);
 
 
     }

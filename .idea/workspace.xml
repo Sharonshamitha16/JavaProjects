@@ -4,31 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeb068ae-a530-486a-8071-2e1a22474148" name="Changes" comment="22-03-2024">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/Anagramproblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/DynamicArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/LinearSearchfns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/Reverseint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/linearsearchmain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/linkedlistmain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/asc_desc_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/fibannoci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/odd_even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/primeno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/removalofduplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/sumofdigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/swappingwithout3rd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/vowel.java" afterDir="false" />
+    <list default="true" id="eeb068ae-a530-486a-8071-2e1a22474148" name="Changes" comment="01-04-2024">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/BinaryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/Mergemain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/Mergesorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/sortingusingquickmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/Largestnum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/applicationform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/applicationform.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/fibannoci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/fibannoci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +58,7 @@
     "Application.Anagramproblem.executor": "Run",
     "Application.AppForm.executor": "Run",
     "Application.Base_Recursive.executor": "Run",
+    "Application.BinaryMain.executor": "Run",
     "Application.BusDemoMain.executor": "Run",
     "Application.Digits_of_sum_inbulitIP.executor": "Run",
     "Application.DynamicArrayDemo.executor": "Run",
@@ -81,8 +69,10 @@
     "Application.Filehandling.executor": "Run",
     "Application.Foreachloop_missingArray.executor": "Run",
     "Application.Inheritance.executor": "Run",
+    "Application.Largestnum.executor": "Run",
     "Application.LibraryManagementApplication.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Mergemain.executor": "Run",
     "Application.Methodavgload.executor": "Run",
     "Application.MultiThreading_synchronized_interfaceRunnable.executor": "Run",
     "Application.Multithrading_interface_runnable.executor": "Run",
@@ -110,12 +100,13 @@
     "Application.dummycls.executor": "Run",
     "Application.fact_recursion.executor": "Run",
     "Application.factorial.executor": "Run",
-    "Application.fibannoci.executor": "Run",
+    "Application.fibannoci.executor": "Debug",
     "Application.fibannoci_recursion.executor": "Run",
     "Application.interface_multiple_inheritance.executor": "Run",
     "Application.linearsearch.executor": "Run",
     "Application.linearsearchmain.executor": "Run",
     "Application.linkedlistmain.executor": "Run",
+    "Application.mergemain.executor": "Run",
     "Application.method.executor": "Run",
     "Application.method_demo_object.executor": "Run",
     "Application.methodoverloading.executor": "Run",
@@ -127,11 +118,14 @@
     "Application.queue_implement.executor": "Run",
     "Application.removalofduplicates.executor": "Run",
     "Application.reversestring.executor": "Run",
+    "Application.sortingusingquickmain.executor": "Run",
     "Application.stack_implement_int.executor": "Run",
     "Application.sumofdigit.executor": "Run",
     "Application.swappingwithout3rd.executor": "Run",
     "Application.synchronizeddemo.executor": "Run",
     "Application.vowel.executor": "Run",
+    "Java Scratch.Learning.executor": "Run",
+    "Java Scratch.Scratch.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -157,9 +151,22 @@
       <recent name="org.codewithsharon.telegrambot" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.removalofduplicates">
-    <configuration name="asc_desc_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.importantcodes.asc_desc_array" />
+  <component name="RunManager" selected="Application.BinaryMain">
+    <configuration name="BinaryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.ds.BinaryMain" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codewithsharon.ds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Largestnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.importantcodes.Largestnum" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -171,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.importantcodes.factorial" />
+    <configuration name="sortingusingquickmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.ds.sortingusingquickmain" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.codewithsharon.importantcodes.*" />
+          <option name="PATTERN" value="org.codewithsharon.ds.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,52 +191,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="odd_even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.importantcodes.odd_even" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.codewithsharon.importantcodes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Learning" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learning" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/Learning.java" />
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removalofduplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.importantcodes.removalofduplicates" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.codewithsharon.importantcodes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sumofdigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.importantcodes.sumofdigit" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.codewithsharon.importantcodes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/Learning.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.removalofduplicates" />
-        <item itemvalue="Application.sumofdigit" />
-        <item itemvalue="Application.odd_even" />
-        <item itemvalue="Application.factorial" />
-        <item itemvalue="Application.asc_desc_array" />
+        <item itemvalue="Application.BinaryMain" />
+        <item itemvalue="Application.sortingusingquickmain" />
+        <item itemvalue="Java Scratch.Scratch" />
+        <item itemvalue="Java Scratch.Learning" />
+        <item itemvalue="Application.Largestnum" />
       </list>
     </recent_temporary>
   </component>
@@ -410,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711131807173</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="01-04-2024">
+      <option name="closed" value="true" />
+      <created>1711911022782</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711911022782</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +428,8 @@
     <MESSAGE value="02-03-2024" />
     <MESSAGE value="04-03-2024" />
     <MESSAGE value="22-03-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="22-03-2024" />
+    <MESSAGE value="01-04-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="01-04-2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -471,6 +463,41 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/stack_implement_int.java</url>
           <line>2</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/sumofdigit.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/fibannoci.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/fibannoci.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/fibannoci.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/fibannoci.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/fibannoci.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/BinaryMain.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/EmployeeInheritance.java</url>
