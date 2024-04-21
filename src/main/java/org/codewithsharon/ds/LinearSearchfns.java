@@ -58,7 +58,8 @@ public class LinearSearchfns {
         return false;
     }
 
-    public static int countval (int []arr){
+    public static int countval (int []arr){// finding 3 digit number
+
         int count =0;
         for (int i = 0; i < arr.length; i++)
             if(arr[i]>=100&& arr[i]<=999)
@@ -66,11 +67,14 @@ public class LinearSearchfns {
         return count;
     }
     public static  int countstr (String str){
+                int count =0;
         for(int i =0; i<str.length();i++){
-           // if(str.charAt(i))
+            //if(str.charAt(i)!=' '){
+                count++;
+           // }
 
         }
-        return-1;
+        return count;
     }
 
 

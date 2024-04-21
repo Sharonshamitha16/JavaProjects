@@ -7,7 +7,7 @@ public class linearsearchmain {
         int [] arr={2,4,1,6,9,34,633,823,223,5};
         System.out.println(LinearSearchfns.find(arr,9));
         System.out.println(LinearSearchfns.contains(arr,4));
-        String name ="shami";
+        String name ="shami is a gud girl.";
         System.out.println(LinearSearchfns.find(name, 'h'));
         System.out.println(LinearSearchfns.contains(name, 's'));
         int [][]twoarr = {
@@ -16,8 +16,9 @@ public class linearsearchmain {
                 {7,8,9,12},
                 {9,11,21}
         };
-        System.out.println(Arrays.toString(LinearSearchfns.find(twoarr, 3)));
+        System.out.println(Arrays.toString(LinearSearchfns.find(twoarr, 3  )));
         System.out.println(LinearSearchfns.find_min_max(arr,223));
         System.out.println(LinearSearchfns.countval(arr));
+        System.out.println(LinearSearchfns.countstr(name) +" is the count of the given word..");
     }
 }
