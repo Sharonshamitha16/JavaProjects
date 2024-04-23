@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeb068ae-a530-486a-8071-2e1a22474148" name="Changes" comment="10-04-2024">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/AVLtree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/BinarysearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/GraphRep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/Methods/DateandTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/LinearSearchfns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/LinearSearchfns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/linearsearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/linearsearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/linearsearchmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/linearsearchmain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/importantcodes/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/linkedlistmain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/linkedlistmain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +56,8 @@
     &quot;Application.BinaryMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.BinarysearchTree.executor&quot;: &quot;Run&quot;,
     &quot;Application.BusDemoMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Currency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateandTime.executor&quot;: &quot;Run&quot;,
     &quot;Application.Digits_of_sum_inbulitIP.executor&quot;: &quot;Run&quot;,
     &quot;Application.DynamicArrayDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.EmployeeInheritance.executor&quot;: &quot;Run&quot;,
@@ -154,13 +151,13 @@
       <recent name="org.codewithsharon.telegrambot" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseArray">
-    <configuration name="Anagramproblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.ds.Anagramproblem" />
+  <component name="RunManager" selected="Application.linkedlistmain">
+    <configuration name="Currency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.Currency" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.codewithsharon.ds.*" />
+          <option name="PATTERN" value="org.codewithsharon.Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GraphRep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.ds.GraphRep" />
+    <configuration name="DateandTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.Methods.DateandTime" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.codewithsharon.ds.*" />
+          <option name="PATTERN" value="org.codewithsharon.Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,19 +191,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linearsearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.ds.linearsearch" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.codewithsharon.ds.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="linearsearchmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.codewithsharon.ds.linearsearchmain" />
       <module name="JavaProjects" />
@@ -220,13 +204,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="linkedlistmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.codewithsharon.ds.linkedlistmain" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.codewithsharon.ds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.linkedlistmain" />
+        <item itemvalue="Application.Currency" />
+        <item itemvalue="Application.DateandTime" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.linearsearchmain" />
-        <item itemvalue="Application.linearsearch" />
-        <item itemvalue="Application.Anagramproblem" />
-        <item itemvalue="Application.GraphRep" />
       </list>
     </recent_temporary>
   </component>
@@ -423,7 +420,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712739819469</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="10-04-2024">
+      <option name="closed" value="true" />
+      <created>1713710185635</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1713710185635</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
