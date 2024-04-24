@@ -2,7 +2,7 @@ package org.codewithsharon.ds;
 
 public class linkedlistmain {
     public static void main(String[] args) {
-        LinkedList lk = new LinkedList();
+        LinkedList<Integer> lk = new LinkedList<Integer>();
         lk.insertatBeg(9);
         lk.insertatBeg(8);
         lk.insertatBeg(6);
@@ -32,9 +32,23 @@ public class linkedlistmain {
         System.out.println("deleting at position 3  last");
         lk.deleteatpos(3);
         lk.display();
+
         System.out.println("deleting at end:");
-        lk.deleteatend(9);
+        lk.deleteatend();
         lk.display();
 
+        System.out.println("searching a element: saying its postion");
+        lk.insertatBeg(6);
+        lk.insertatPos(2, 7);
+        lk.searchelement(8);
+       // lk.display();
+
+        System.out.println("value present or not:");
+        lk.containselement(0);
+        System.out.println("before reversing a list ");
+        lk.display();
+        System.out.println(" after reversing a list");
+        lk.reverselist();
+        lk.display();
     }
 }

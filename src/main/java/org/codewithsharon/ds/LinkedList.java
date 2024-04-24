@@ -1,5 +1,7 @@
 package org.codewithsharon.ds;
 
+import java.util.Iterator;
+
 //public class LinkedList {
 //    node head;//creating a head using a object class
 //
@@ -58,14 +60,32 @@ package org.codewithsharon.ds;
 //    }
 //}
 //
-public class LinkedList {
+public class LinkedList <T> implements  Iterable<T>{
     Node head;
 
+    @Override
+    public Iterator<T> iterator() {
+        return new Iterator<T>() {
+            Node temp = head;
+            @Override
+            public boolean hasNext() {
+                return temp!=null;
+            }
+
+            @Override
+            public T next() {
+                T val = temp.data;
+                temp=temp.next;
+                return val;
+            }
+        };
+    }
+
     class Node {
-        int data;
+        T data;
         Node next;
 
-        Node(int val) {
+        Node(T val) {
             data = val;
             next = null;
         }
@@ -76,7 +96,7 @@ public class LinkedList {
         head = null;
     }
 
-    public void insertatBeg(int val) {
+    public void insertatBeg(T val) {
         Node newNode = new Node(val);
         if (head == null) {
             head = newNode;
@@ -86,7 +106,7 @@ public class LinkedList {
         }
     }
 
-    public void insertatPos(int pos, int val) {
+    public void insertatPos(int pos, T val) {
         if (pos == 0) {
             insertatBeg(val);
             return;
@@ -124,7 +144,7 @@ public class LinkedList {
         prev.next = temp.next;
     }
 
-    public Node getnode(int pos) {
+    public Node   getnode(int pos) {
 
         Node temp = head;
         int count = 0;
@@ -139,13 +159,13 @@ public class LinkedList {
         return null;
     }
 
-    public void updatenode(int pos, int newvals) {
+    public void updatenode(int pos, T newvals) {
         Node temp = head;
         int count = 0;
         while (temp != null) {
-            if (count == pos) {
+            if (pos == count) {
                 temp.data = newvals;
-                count = newvals;
+                count = (int) newvals;
                 return;
             }
             temp = temp.next;
@@ -153,17 +173,66 @@ public class LinkedList {
         }
     }
 
-    public void deleteatend(int newval) {
-        Node temp = head;
-        Node prev = null;
-        while (temp!= null) {
-            if (temp.data == newval) {
-                prev.next = temp.next;
+    public void deleteatend() {
+        if (head == null || head.next == null) {
+            head = null; // List is empty or has only one node
+            return;
+        }
+            Node temp = head;
+            while (temp.next.next != null) {
+                temp = temp.next;
             }
-            prev=temp.next;
 
+        temp.next = null;
+   }
+//        Node secondLast = head; // Start at the head of the list (1)
+//        while (secondLast.next.next  != null) { // Iterate until the second-to-last node
+//            secondLast = secondLast.next; // Move to the next node (2 -> 3 -> 4 ...)
+//        }
+//        secondLast.next = null; // Update the next pointer of second-to-last node to null
+//    }
+
+    public void searchelement(T vals){
+        Node temp =head;
+        int count =0;
+        while (temp!=null){
+            if(temp.data==vals){
+                System.out.println(count);
+            }
+            count++;
+            temp =temp.next;
         }
     }
-}
+    public boolean containselement(T vals){
+        Node temp =head;
+        int count =0;
+        boolean yes = true;
+        boolean no = false;
+        while(temp!=null){
+            if(temp.data==vals){
+          //return temp.data==vals?yes:no
+                System.out.println( "yes val present in "+ count +" position");
+            }
+//            else {
+//                System.out.println( "no not present in the list.");
+//            }
+            count++;
+            temp=temp.next;
+        }
+        return yes;
+    }
+    public void reverselist(){
+        Node current = head;
+        Node prev = null;
+        Node next;
+        while (current!=null){
+            next=current.next;
+            current.next=prev;
+            prev = current;
+            current=next;
 
+        }
+        head=prev;
+    }
+}
 
