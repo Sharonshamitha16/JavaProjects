@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeb068ae-a530-486a-8071-2e1a22474148" name="Changes" comment="10-04-2024">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/DoublyLinkedListMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/DoublyLinkedListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/codewithsharon/ds/DoublyLinkedListMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,108 +40,108 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.AVLtree.executor": "Run",
-    "Application.AWTDEMO.executor": "Run",
-    "Application.AWTDem.executor": "Run",
-    "Application.AWTDemo.executor": "Run",
-    "Application.AWTbutton.executor": "Run",
-    "Application.Anagramproblem.executor": "Run",
-    "Application.AppForm.executor": "Run",
-    "Application.Base_Recursive.executor": "Run",
-    "Application.BinaryMain.executor": "Run",
-    "Application.BinarysearchTree.executor": "Run",
-    "Application.BusDemoMain.executor": "Run",
-    "Application.Currency.executor": "Run",
-    "Application.DateandTime.executor": "Run",
-    "Application.Digits_of_sum_inbulitIP.executor": "Run",
-    "Application.DoublyLinkedListMain.executor": "Run",
-    "Application.DynamicArrayDemo.executor": "Run",
-    "Application.EmployeeInheritance.executor": "Run",
-    "Application.Expection.executor": "Run",
-    "Application.FileBot.executor": "Run",
-    "Application.FileWriting.executor": "Run",
-    "Application.Filehandling.executor": "Run",
-    "Application.Foreachloop_missingArray.executor": "Run",
-    "Application.GraphRep.executor": "Run",
-    "Application.Inheritance.executor": "Run",
-    "Application.Largestnum.executor": "Run",
-    "Application.LibraryManagementApplication.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Mergemain.executor": "Run",
-    "Application.Methodavgload.executor": "Run",
-    "Application.MultiThreading_synchronized_interfaceRunnable.executor": "Run",
-    "Application.Multithrading_interface_runnable.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.PredefinedMethodThread.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.ReverseNumber.executor": "Run",
-    "Application.ReverseString.executor": "Run",
-    "Application.Reverseint.executor": "Run",
-    "Application.SecondFile$Palindrome.executor": "Run",
-    "Application.SecondFile.executor": "Run",
-    "Application.Student_method.executor": "Run",
-    "Application.Studentinfo.executor": "Run",
-    "Application.Subarray.executor": "Run",
-    "Application.Sumofdigits_Method.executor": "Run",
-    "Application.SurfaceArea_Method.executor": "Run",
-    "Application.TableSynchronized.executor": "Run",
-    "Application.Tally_counter.executor": "Run",
-    "Application.Threadbaking.executor": "Run",
-    "Application.UserdefinedExpection.executor": "Run",
-    "Application.VarargsDemo.executor": "Run",
-    "Application.abstractdemo.executor": "Run",
-    "Application.arraylistdemo.executor": "Run",
-    "Application.asc_desc_array.executor": "Run",
-    "Application.dummycls.executor": "Run",
-    "Application.fact_recursion.executor": "Run",
-    "Application.factorial.executor": "Run",
-    "Application.fibannoci.executor": "Debug",
-    "Application.fibannoci_recursion.executor": "Run",
-    "Application.interface_multiple_inheritance.executor": "Run",
-    "Application.linearsearch.executor": "Run",
-    "Application.linearsearchmain.executor": "Run",
-    "Application.linkedlistmain.executor": "Run",
-    "Application.mergemain.executor": "Run",
-    "Application.method.executor": "Run",
-    "Application.method_demo_object.executor": "Run",
-    "Application.methodoverloading.executor": "Run",
-    "Application.odd_even.executor": "Run",
-    "Application.palindrome.executor": "Run",
-    "Application.passreference.executor": "Run",
-    "Application.predefined_cls_methods.executor": "Run",
-    "Application.primeno.executor": "Run",
-    "Application.queue_implement.executor": "Run",
-    "Application.removalofduplicates.executor": "Run",
-    "Application.reversestring.executor": "Run",
-    "Application.sortingusingquickmain.executor": "Run",
-    "Application.stack_implement_int.executor": "Run",
-    "Application.sumofdigit.executor": "Run",
-    "Application.swappingwithout3rd.executor": "Run",
-    "Application.synchronizeddemo.executor": "Run",
-    "Application.vowel.executor": "Run",
-    "Java Scratch.Learning.executor": "Run",
-    "Java Scratch.Scratch.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Sharon Shamitha/Downloads/mysql-connector-j-8.3.0 (1).zip",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AVLtree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AWTDEMO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AWTDem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AWTDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AWTbutton.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagramproblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AppForm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Base_Recursive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarysearchTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BusDemoMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Currency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DateandTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Digits_of_sum_inbulitIP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoublyLinkedListMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynamicArrayDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Expection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileBot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileWriting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Filehandling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Foreachloop_missingArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GraphRep.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Largestnum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LibraryManagementApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mergemain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Methodavgload.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreading_synchronized_interfaceRunnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithrading_interface_runnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PredefinedMethodThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverseint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondFile$Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student_method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Studentinfo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Subarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sumofdigits_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SurfaceArea_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TableSynchronized.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tally_counter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Threadbaking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserdefinedExpection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarargsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.abstractdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arraylistdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.asc_desc_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dummycls.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fact_recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibannoci.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.fibannoci_recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.interface_multiple_inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linearsearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linearsearchmain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linkedlistmain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mergemain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.method_demo_object.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodoverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.odd_even.executor&quot;: &quot;Run&quot;,
+    &quot;Application.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.passreference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.predefined_cls_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primeno.executor&quot;: &quot;Run&quot;,
+    &quot;Application.queue_implement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.removalofduplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reversestring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sortingusingquickmain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stack_implement_int.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumofdigit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.swappingwithout3rd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.synchronizeddemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vowel.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.Learning.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.Scratch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sharon Shamitha/Downloads/mysql-connector-j-8.3.0 (1).zip&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.codewithsharon.telegrambot" />
@@ -443,7 +443,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713975034514</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="10-04-2024">
+      <option name="closed" value="true" />
+      <created>1714066698383</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1714066698384</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

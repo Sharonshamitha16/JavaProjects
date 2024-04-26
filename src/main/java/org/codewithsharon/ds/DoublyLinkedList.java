@@ -41,9 +41,28 @@ public class DoublyLinkedList {
  public  void displayrev(){
         Node temp = tail;
         while(temp!=null){
-            System.out.print(temp.data +" ");
+            System.out.print (temp.data +" ");
             temp =temp.prev;
 
         }
     }
+    public void insertatpos(int pos, int val){
+        Node newNode = new Node(val);
+        Node temp =head;
+
+        for(int i=1;i<pos;i++)
+        {
+            temp= temp.next;
+        }
+        newNode.next=temp.next;
+        newNode.prev=temp;//.next.prev;
+        if(temp==tail){
+            //newNode.next=null;
+            tail=newNode;
+        }
+        else{
+        temp.next.prev=newNode;
+        temp.next=newNode;
+    }
+}
 }
