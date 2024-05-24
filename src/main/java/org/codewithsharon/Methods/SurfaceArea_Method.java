@@ -18,7 +18,7 @@ public class SurfaceArea_Method {
         MethodBox.height=10;
         MethodBox.length=8;
         MethodBox.width=15;
-        MethodBox.SurfaceArea();
+        System.out.println(MethodBox.SurfaceArea());
         MethodBox.Surfacearea(10,8,15);
         System.out.println("surface area of the methodbox is : " +MethodBox.SurfaceArea() );
         //System.out.println("surface area of the methodbox is : ");
