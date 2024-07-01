@@ -50,7 +50,7 @@ class Manager extends Employee{
 
 }
 
-public class inheritance {
+public class inheritancefromudemy {
     public static void main(String[] args) {
         Employee e1 = new Employee("sam", 30000);
         e1.getSalary();

@@ -16,4 +16,6 @@ public class whileloop {
         System.out.println("Out of the loop i value " +  i );
     }
 }
-// take a example saying days of week as i and hours of day as j there how a day completes in 24 hrs and start the 2nd day with 0-24 same thing
+// take a example saying days of week as i and hours of day  as j
+// there how a day completes in 24 hrs
+// and start the 2nd day with 0-24 same thing
